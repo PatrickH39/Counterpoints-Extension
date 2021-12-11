@@ -7,11 +7,11 @@ import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import BackgroundSlider from 'react-background-slider';
 
-import image1 from '/static/img/image1.jpg'
-import image2 from '/static/img/image2.jpg'
-import image3 from '/static/img/image3.jpg'
-import image4 from '/static/img/image4.jpg'
-import image5 from '/static/img/image5.jpg'
+import image1 from '/static/img/bg/image1.jpg'
+import image2 from '/static/img/bg/image2.jpg'
+import image3 from '/static/img/bg/image3.jpg'
+import image4 from '/static/img/bg/image4.jpg'
+import image5 from '/static/img/bg/image5.jpg'
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();

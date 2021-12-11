@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Explore Canada’s History',
-    Svg: require('../../static/img/explore.svg').default,
+    Svg: require('../../static/img/icons/explore.svg').default,
     description: (
       <>
         Take a look at huge events that influence Canada&apos;s culture and our cultural identity. Explore some of the contributions that Canada has made to the world!
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Learn From The Past',
-    Svg: require('../../static/img/analysis.svg').default,
+    Svg: require('../../static/img/icons/analysis.svg').default,
     description: (
       <>
         By learning about the history and world events that have occured, we can prevent anything bad from happening, and instead, learn and evolve for a better future.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Test Your Knowledge',
-    Svg: require('../../static/img/test.svg').default,
+    Svg: require('../../static/img/icons/knowledge_test.svg').default,
     description: (
       <>
         Extend your critical thinking skills, and see what you have really learnt from each section covered by testing your knowledge with the quizzes on select pages!
