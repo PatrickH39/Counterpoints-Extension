@@ -4,40 +4,52 @@ sidebar_position: 1
 
 # Introduction
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Docusaurus can manage multiple versions of your docs.
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+## Create a docs version
 
-## Create your first React Page
+Release a version 1.0 of your project:
 
-Create a file at `src/pages/my-react-page.js`:
-
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
+```bash
+npm run docusaurus docs:version 1.0
 ```
 
-A new page is now available at `http://localhost:3000/my-react-page`.
+The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
 
-## Create your first Markdown Page
+Your docs now have 2 versions:
 
-Create a file at `src/pages/my-markdown-page.md`:
+- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
+- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+## Add a Version Dropdown
 
-This is a Markdown page
+To navigate seamlessly across versions, add a version dropdown.
+
+Modify the `docusaurus.config.js` file:
+
+```js title="docusaurus.config.js"
+module.exports = {
+  themeConfig: {
+    navbar: {
+      items: [
+        // highlight-start
+        {
+          type: 'docsVersionDropdown',
+        },
+        // highlight-end
+      ],
+    },
+  },
+};
 ```
 
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+The docs version dropdown appears in your navbar:
+
+![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)
+
+## Update an existing version
+
+It is possible to edit versioned docs in their respective folder:
+
+- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
+- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
