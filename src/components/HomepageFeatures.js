@@ -5,31 +5,28 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Explore Canada’s History',
-    Svg: require('../../static/img/undraw_to_the_stars_qhyy.svg').default,
+    Svg: require('../../static/img/explore.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Take a look at huge events that influence Canada&apos;s culture and our cultural identity. Explore some of the contributions that Canada has made to the world!
       </>
     ),
   },
   {
     title: 'Learn From The Past',
-    Svg: require('../../static/img/undraw_thought_process_re_om58.svg').default,
+    Svg: require('../../static/img/analysis.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        By learning about the history and world events that have occured, we can prevent anything bad from happening, and instead, learn and evolve for a better future.
       </>
     ),
   },
   {
     title: 'Test Your Knowledge',
-    Svg: require('../../static/img/undraw_connected_world_wuay.svg').default,
+    Svg: require('../../static/img/test.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Extend your critical thinking skills, and see what you have really learnt from each section covered by testing your knowledge with the quizzes on select pages!
       </>
     ),
   },
