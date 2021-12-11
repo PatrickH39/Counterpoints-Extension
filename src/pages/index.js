@@ -9,7 +9,8 @@ import BackgroundSlider from 'react-background-slider';
 
 import image1 from '/static/img/image1.jpg'
 import image2 from '/static/img/image2.jpg'
-
+import image3 from '/static/img/image3.jpg'
+import image4 from '/static/img/image4.jpg'
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -17,7 +18,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
       <BackgroundSlider
-          images={[image1, image2]}
+          images={[image1, image2, image3, image4]}
           duration={8}
           transition={2}
         />
