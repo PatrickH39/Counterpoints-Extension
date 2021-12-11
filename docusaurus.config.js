@@ -55,19 +55,19 @@ const config = {
                 },
                 {
                     type: 'doc',
-                    docId: 'kosovo-war/introduction',
+                    docId: 'kosovo-war',
                     position: 'left',
                     label: 'Kosovo War',
                 },
                 {
                     type: 'doc',
-                    docId: 'jihadist-groups/introduction',
+                    docId: 'jihadist-groups',
                     position: 'left',
                     label: 'Jihadist Groups',
                 },
                 {
                     type: 'doc',
-                    docId: 'space-exploration/introduction',
+                    docId: 'space-exploration',
                     position: 'left',
                     label: 'Space Exploration',
                 },
