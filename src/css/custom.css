@@ -42,6 +42,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     font-size: xx-large;
 }
 
+.container {
+    margin: auto;
+}
+
 .header-github-link:hover {
     opacity: 0.6;
 }
