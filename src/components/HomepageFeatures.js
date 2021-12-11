@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Explore Canada&apos;s History',
+    title: 'Explore Canada's History',
     Svg: require('../../static/img/undraw_to_the_stars_qhyy.svg').default,
     description: (
       <>
