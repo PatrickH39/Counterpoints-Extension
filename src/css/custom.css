@@ -34,6 +34,14 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     color: white;
 }
 
+.navbar__title {
+    font-size: larger;
+}
+
+.hero__title {
+    font-size: xx-large;
+}
+
 .header-github-link:hover {
     opacity: 0.6;
 }
