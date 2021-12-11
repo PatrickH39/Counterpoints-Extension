@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Counterpoints',
-    tagline: 'Chapter 5 Extension',
+    title: 'ddd',
+    tagline: 'ddd',
     url: 'https://counterpoints.patrickh.ca',
     baseUrl: '/',
     onBrokenLinks: 'throw',
