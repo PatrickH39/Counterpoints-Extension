@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Counterpoints',
-    tagline: 'Dinosaurs are cool',
+    tagline: 'Chapter 5 Extension',
     url: 'https://counterpoints.patrickh.ca',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -36,16 +36,46 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
         navbar: {
-            title: 'Counterpoints Chapter Extension',
+            title: 'Counterpoints',
             logo: {
                 alt: 'Globe',
                 src: 'img/logo.svg',
             },
             items: [{
                     type: 'doc',
-                    docId: 'intro',
+                    docId: 'welcome',
                     position: 'left',
-                    label: 'Tutorial',
+                    label: 'Welcome',
+                },
+                {
+                    type: 'doc',
+                    docId: 'human-genome-project/introduction',
+                    position: 'left',
+                    label: 'Human Genome Project',
+                },
+                {
+                    type: 'doc',
+                    docId: 'kosovo-war/introduction',
+                    position: 'left',
+                    label: 'Kosovo War',
+                },
+                {
+                    type: 'doc',
+                    docId: 'jihadist-groups/introduction',
+                    position: 'left',
+                    label: 'Jihadist Groups',
+                },
+                {
+                    type: 'doc',
+                    docId: 'space-exploration/introduction',
+                    position: 'left',
+                    label: 'Space Exploration',
+                },
+                {
+                    type: 'doc',
+                    docId: 'persian-gulf-war/introduction',
+                    position: 'left',
+                    label: 'Persian Gulf War',
                 },
                 {
                     href: 'https://github.com/patrickh39/Counterpoints-Extension',
