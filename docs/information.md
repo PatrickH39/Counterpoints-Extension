@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # About the Project
 
+## Welcome
+
+insert instructions on how to use website here
+
 ## Topic Justification
 
 The topics listed below are ranked by importance by its respective positions.
