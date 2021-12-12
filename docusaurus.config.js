@@ -43,7 +43,7 @@ const config = {
             },
             items: [{
                     type: 'doc',
-                    docId: 'Information',
+                    docId: 'information',
                     position: 'left',
                     label: 'Information',
                 },
