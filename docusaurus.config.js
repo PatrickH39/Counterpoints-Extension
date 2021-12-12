@@ -18,7 +18,6 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'null',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),

@@ -34,7 +34,6 @@ Dextre, short for the Special Purpose Dexterous Manipulator (SPDM), has been ser
 
 Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, highlighting the achievements that Canada have made in space exploration. The materials for Canada’s space projects are supplied by over 500 organizations across Canada, including **MDA** which assembled, built, and delivered a large portion of the parts to the ISS.
 
-```md
 <details>
   <summary>Comparative Table of the Canadarms</summary>
 <table>
@@ -140,7 +139,6 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 </tbody>
 </table>
 </details>
-```
 
 ### Space Agriculture
 
