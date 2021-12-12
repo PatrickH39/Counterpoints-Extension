@@ -88,7 +88,7 @@ const config = {
         footer: {
             style: 'dark',
             links: [],
-            copyright: `<b>Patrick Huynh, Terrance Wen, and Tyler Li</b><br>Socials Studies 10E - S1P1`,
+            copyright: `<b>Patrick Huynh, Tyler Li, and Terrance Wen</b><br>Socials Studies 10E - S1P1`,
         },
         prism: {
             theme: lightCodeTheme,
