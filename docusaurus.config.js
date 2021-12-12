@@ -79,9 +79,9 @@ const config = {
                 },
                 {
                     type: 'doc',
-                    docId: 'topic-justification',
+                    docId: 'glossary',
                     position: 'left',
-                    label: 'Topic Justification',
+                    label: 'Glossary',
                 },
                 {
                     href: 'https://github.com/patrickh39/Counterpoints-Extension',

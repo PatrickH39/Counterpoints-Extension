@@ -2,54 +2,14 @@
 sidebar_position: 2
 ---
 
-# Introduction
+# Human Genome Project
 
-Docusaurus can manage multiple versions of your docs.
+## Introduction
 
-## Create a docs version
+The Human Genome Project was an international research effort created to discover the structure, organization, and function of a human **genome**. The project was first launched in 1988 by a committee of the U.S. National Academy of Sciences. It evolved from a 5-year plan to a 13-year research effort- lasting from 1990 to 2003. The National Institutes of Health and the Department of Energy funded the research to further expand on the concept.
 
-Release a version 1.0 of your project:
+The sequencing of the human genome involved determining the order of all three billion bases that make up DNA. The sequence information was submitted to large databases so that researchers could add to the sequence. The first rough drafts of the human genome were published in 2000 and 2001. The complete sequence of the human genome was finalized and published in April 2003, which was two years ahead of schedule.  
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+## Canada’s Involvement
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
-
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+The Human Genome Organization was created to promote international collaborative efforts between many countries, including Canada, the United States, Britain, France, Japan, Italy, Germany and more. The exchange of data and research techniques accelerated the project.
