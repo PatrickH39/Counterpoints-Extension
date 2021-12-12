@@ -48,7 +48,7 @@ const config = {
                 },
                 {
                     type: 'doc',
-                    docId: 'human-genome-project/introduction',
+                    docId: 'human-genome-project',
                     position: 'left',
                     label: 'Human Genome Project',
                 },
@@ -72,9 +72,15 @@ const config = {
                 },
                 {
                     type: 'doc',
-                    docId: 'persian-gulf-war/introduction',
+                    docId: 'persian-gulf-war',
                     position: 'left',
                     label: 'Persian Gulf War',
+                },
+                {
+                    type: 'doc',
+                    docId: 'topic-justification',
+                    position: 'left',
+                    label: 'Topic Justification',
                 },
                 {
                     href: 'https://github.com/patrickh39/Counterpoints-Extension',
