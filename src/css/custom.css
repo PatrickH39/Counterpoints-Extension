@@ -29,6 +29,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     background-color: rgba(0, 0, 0, 0.3);
 }
 
+.button {
+    font-weight: 500;
+}
+
 .hero--primary {
     background-color: #25252599;
     color: white;

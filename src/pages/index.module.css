@@ -10,10 +10,6 @@
     overflow: hidden;
 }
 
-.button {
-    font-weight: 500;
-}
-
 .buttons {
     display: flex;
     align-items: center;
