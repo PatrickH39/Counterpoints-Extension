@@ -1,10 +1,6 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Counterpoints',
     tagline: 'Chapter 5 Extension',
@@ -13,8 +9,8 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'PatrickH39', // Usually your GitHub org/user name.
-    projectName: 'Counterpoints-Extension', // Usually your repo name.
+    organizationName: 'PatrickH39',
+    projectName: 'Counterpoints-Extension',
     presets: [
         [
             'classic',
@@ -22,7 +18,6 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
                     editUrl: 'https://github.com/patrickh39/Counterpoints-Extension/edit/main/',
                 },
                 theme: {
@@ -31,9 +26,15 @@ const config = {
             }),
         ],
     ],
-    themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-        ({
+    themeConfig: {
+        colorMode: {
+            defaultMode: 'dark',
+            respectPrefersColorScheme: true,
+            switchConfig: {
+                darkIcon: '🌙',
+                lightIcon: '☀️',
+            },
+        },
         navbar: {
             title: 'Counterpoints',
             logo: {
@@ -99,7 +100,7 @@ const config = {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
         },
-    }),
+    },
 };
 
 module.exports = config;
