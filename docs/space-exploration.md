@@ -32,7 +32,111 @@ Dextre, short for the Special Purpose Dexterous Manipulator (SPDM), has been ser
 
 Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, highlighting the achievements that Canada have made in space exploration. The materials for Canada’s space projects are supplied by over 500 organizations across Canada, including **MDA** which assembled, built, and delivered a large portion of the parts to the ISS.
 
-
+<details>
+  <summary>Comparative Table of the Canadarms</summary>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Canadarm</th>
+<th>Canadarm2</th>
+<th>Canadarm3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Location</strong></td>
+<td>Installed on each Space Shuttle and returned to Earth.<br><br>Now retired, the Canadarm is on display at the Canada Aviation and Space Museum in Ottawa, Ontario.</td>
+<td>Stays permanently in space on board the International Space Station.</td>
+<td>Will stay permanently in space on board the Lunar Gateway.</td>
+</tr>
+<tr>
+<td><strong>Range of Motion</strong></td>
+<td>Reach limited to length of arm.</td>
+<td>Moves end-over-end to reach many parts of the International Space Station, where its anchoring "hand" plugs into a power, data, and video outlet.<br><br>Because it is mounted on the Mobile Base, the arm can travel the entire length of the Space Station.</td>
+<td>Will move end-over-end to reach many parts of the Lunar Gateway, where its anchoring "hand" will plug into a power, data, and video outlet.<br><br>The arm will be able to travel and bring tools to the entire length of the Lunar Gateway.</td>
+</tr>
+<tr>
+<td><strong>Fixed Joint</strong></td>
+<td>Fixed to the shuttle by one end.</td>
+<td>No fixed end.</td>
+<td>No fixed end.</td>
+</tr>
+<tr>
+<td><strong>Degrees of Freedom</strong></td>
+<td>Six degrees of freedom. Similar to a human arm: <ul dir="auto"><li>Two joints in the shoulder</li><li>One joint in the elbow</li><li>Three joints in the wrist</li></ul></td>
+<td>Seven degrees of freedom. Very similar to a human arm:<ul dir="auto"><li>Three joints in the shoulder</li><li>One joint in the elbow</li><li>Three joints in the wrist</li></ul></td>
+<td>Seven degrees of freedom. Very similar to a human arm:<ul dir="auto"><li>Three joints in the shoulder</li><li>One joint in the elbow</li><li>Three joints in the wrist</li></ul></td>
+</tr>
+<tr>
+<td><strong>Joint Rotation</strong></td>
+<td>Elbow rotation limited to 160 degrees.</td>
+<td>Each of Canadarm2's joints rotate 270 degrees in each direction, a total of 540 degrees.<br><br>This range of motion is greater than that of a human arm.</td>
+<td>Each joint will be able to rotate almost 360 degrees.</td>
+</tr>
+<tr>
+<td><strong>Senses</strong></td>
+<td>No sense of touch.</td>
+<td><ul dir="auto"><li>Force-moment sensors provide a sense of "touch".</li><li>Automatic collision avoidance.</li></ul></td>
+<td><ul dir="auto"><li>Force-moment sensors provide a sense of "touch".</li><li>Automatic collision avoidance.</li><li>3D Vision Sensor Tool that maps objects around it.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Length</strong></td>
+<td>15 m</td>
+<td>17 m</td>
+<td>8.5 m</td>
+</tr>
+<tr>
+<td><strong>Mass</strong></td>
+<td>410 kg</td>
+<td>1497 kg</td>
+<td>715 kg (estimation)</td>
+</tr>
+<tr>
+<td><strong>Diameter</strong></td>
+<td>33 cm (exterior diameter of composite boom)</td>
+<td>35 cm (exterior diameter of composite boom)</td>
+<td>23 cm (exterior diameter of composite boom)</td>
+</tr>
+<tr>
+<td><strong>Speed of Operation</strong></td>
+<td>Unloaded: 60 cm/s<br>Loaded: 6 cm/s</td>
+<td>Unloaded: 37 cm/s<br>Loaded:<ul dir="auto"><li>2 cm/s (during ground control)</li><li>15 cm/s (support during spacewalks)</li></ul></td>
+<td>Unloaded: 10 cm/s<br>Loaded: to be determined</td>
+</tr>
+<tr>
+<td><strong>Composition</strong></td>
+<td>16 layers of high-modulus carbon fibre epoxy</td>
+<td>19 layers of high-strength carbon fibre thermoplastic</td>
+<td>Carbon fibre composite.</td>
+</tr>
+<tr>
+<td><strong>Repairs</strong></td>
+<td>Repaired on Earth.</td>
+<td>Designed to be repaired in space. Composed of removable sections that can be individually replaced in space.</td>
+<td>Designed to self-detach sections that can be repaired inside the Lunar Gateway.</td>
+</tr>
+<tr>
+<td><strong>Control</strong></td>
+<td>Controlled by astronauts on the Space Shuttle.</td>
+<td>Controlled from the ground or by astronauts on the International Space Station.</td>
+<td>Primarily controlled autonomously. Can also be controlled from the ground or by astronauts on the Lunar Gateway.</td>
+</tr>
+<tr>
+<td><strong>Cameras</strong></td>
+<td>Two cameras:<br><ul dir="auto"><li>One on the elbow</li><li>One on the wrist</li></ul></td>
+<td>Four colour cameras:<br><ul dir="auto"><li>One on each side of the elbow</li><li>The other two on the "hands"</li></ul></td>
+<td>Six colour 4K cameras:<br><ul dir="auto"><li>One 360-degree camera on each side of the elbow</li><li>One on each boom on swivel mounts</li><li>The other two on the "hands"</li></ul></td>
+</tr>
+<tr>
+<td><strong>Operator</strong></td>
+<td>United States</td>
+<td>Canada and United States</td>
+<td>Canada</td>
+</tr>
+</tbody>
+</table>
+</details>
 
 ### Space Agriculture
 
