@@ -6,14 +6,16 @@ sidebar_position: 5
 
 ## International Space Station (ISS)
 
-The International Space Station, otherwise known as the ISS, resides in low Earth orbit and involves five different space agencies:
-- NASA (United States)
-- CSA (Canada)
--	ESA (Europe)
+The International Space Station, or ISS, resides in low-Earth orbit and is operated by five space agencies:
+- National Aeronautics and Space Administration (United States)
+- Canadian Space Agency (Canada)
+-	European Space Agency (Europe)
 -	Roscosmos (Russia)
-- JAXA (Japan)
+- Japan Aerospace Exploration Agency (Japan)
 
-The project for the ISS started on January 25, 1986, and the first segment was sent on November 20, 1998. After two years, astronaut Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev, inhabited the station on November 2, 2000; being the first group of people to be on the ISS.
+The abbreviations for each space agency if applicable, are NASA, CSA, ESA, Roscosmos, and JAXA.
+
+The project for the ISS began on January 25, 1986, and the first segment was sent on November 20, 1998. After two years, astronaut Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev, inhabited the station on November 2, 2000; being the first group of people to be on the ISS.
 
 ### Robotics on the ISS
 :::caution
