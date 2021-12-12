@@ -43,9 +43,9 @@ const config = {
             },
             items: [{
                     type: 'doc',
-                    docId: 'welcome',
+                    docId: 'about',
                     position: 'left',
-                    label: 'Welcome',
+                    label: 'About',
                 },
                 {
                     type: 'doc',
@@ -76,12 +76,6 @@ const config = {
                     docId: 'persian-gulf-war',
                     position: 'left',
                     label: 'Persian Gulf War',
-                },
-                {
-                    type: 'doc',
-                    docId: 'glossary',
-                    position: 'left',
-                    label: 'Glossary',
                 },
                 {
                     href: 'https://github.com/patrickh39/Counterpoints-Extension',
