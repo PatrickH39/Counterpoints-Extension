@@ -46,15 +46,15 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 <tbody>
 <tr>
 <td><strong>Location</strong></td>
-<td>Installed on each Space Shuttle and returned to Earth.<br><br>Now retired, the Canadarm is on display at the Canada Aviation and Space Museum in Ottawa, Ontario.</td>
+<td>Installed on each Space Shuttle and returned to Earth.<br /><br />Now retired, the Canadarm is on display at the Canada Aviation and Space Museum in Ottawa, Ontario.</td>
 <td>Stays permanently in space on board the International Space Station.</td>
 <td>Will stay permanently in space on board the Lunar Gateway.</td>
 </tr>
 <tr>
 <td><strong>Range of Motion</strong></td>
 <td>Reach limited to length of arm.</td>
-<td>Moves end-over-end to reach many parts of the International Space Station, where its anchoring "hand" plugs into a power, data, and video outlet.<br><br>Because it is mounted on the Mobile Base, the arm can travel the entire length of the Space Station.</td>
-<td>Will move end-over-end to reach many parts of the Lunar Gateway, where its anchoring "hand" will plug into a power, data, and video outlet.<br><br>The arm will be able to travel and bring tools to the entire length of the Lunar Gateway.</td>
+<td>Moves end-over-end to reach many parts of the International Space Station, where its anchoring "hand" plugs into a power, data, and video outlet.<br /><br />Because it is mounted on the Mobile Base, the arm can travel the entire length of the Space Station.</td>
+<td>Will move end-over-end to reach many parts of the Lunar Gateway, where its anchoring "hand" will plug into a power, data, and video outlet.<br /><br />The arm will be able to travel and bring tools to the entire length of the Lunar Gateway.</td>
 </tr>
 <tr>
 <td><strong>Fixed Joint</strong></td>
@@ -71,7 +71,7 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 <tr>
 <td><strong>Joint Rotation</strong></td>
 <td>Elbow rotation limited to 160 degrees.</td>
-<td>Each of Canadarm2's joints rotate 270 degrees in each direction, a total of 540 degrees.<br><br>This range of motion is greater than that of a human arm.</td>
+<td>Each of Canadarm2's joints rotate 270 degrees in each direction, a total of 540 degrees.<br /><br />This range of motion is greater than that of a human arm.</td>
 <td>Each joint will be able to rotate almost 360 degrees.</td>
 </tr>
 <tr>
@@ -100,9 +100,9 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 </tr>
 <tr>
 <td><strong>Speed of Operation</strong></td>
-<td>Unloaded: 60 cm/s<br>Loaded: 6 cm/s</td>
-<td>Unloaded: 37 cm/s<br>Loaded:<ul dir="auto"><li>2 cm/s (during ground control)</li><li>15 cm/s (support during spacewalks)</li></ul></td>
-<td>Unloaded: 10 cm/s<br>Loaded: to be determined</td>
+<td>Unloaded: 60 cm/s<br />Loaded: 6 cm/s</td>
+<td>Unloaded: 37 cm/s<br />Loaded:<ul dir="auto"><li>2 cm/s (during ground control)</li><li>15 cm/s (support during spacewalks)</li></ul></td>
+<td>Unloaded: 10 cm/s<br />Loaded: to be determined</td>
 </tr>
 <tr>
 <td><strong>Composition</strong></td>
@@ -124,9 +124,9 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 </tr>
 <tr>
 <td><strong>Cameras</strong></td>
-<td>Two cameras:<br><ul dir="auto"><li>One on the elbow</li><li>One on the wrist</li></ul></td>
-<td>Four colour cameras:<br><ul dir="auto"><li>One on each side of the elbow</li><li>The other two on the "hands"</li></ul></td>
-<td>Six colour 4K cameras:<br><ul dir="auto"><li>One 360-degree camera on each side of the elbow</li><li>One on each boom on swivel mounts</li><li>The other two on the "hands"</li></ul></td>
+<td>Two cameras:<br /><ul dir="auto"><li>One on the elbow</li><li>One on the wrist</li></ul></td>
+<td>Four colour cameras:<br /><ul dir="auto"><li>One on each side of the elbow</li><li>The other two on the "hands"</li></ul></td>
+<td>Six colour 4K cameras:<br /><ul dir="auto"><li>One 360-degree camera on each side of the elbow</li><li>One on each boom on swivel mounts</li><li>The other two on the "hands"</li></ul></td>
 </tr>
 <tr>
 <td><strong>Operator</strong></td>
