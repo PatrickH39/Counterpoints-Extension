@@ -18,7 +18,7 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/patrickh39/Counterpoints-Extension/edit/main/',
+                    editUrl: 'null',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),

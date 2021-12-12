@@ -34,6 +34,7 @@ Dextre, short for the Special Purpose Dexterous Manipulator (SPDM), has been ser
 
 Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, highlighting the achievements that Canada have made in space exploration. The materials for Canada’s space projects are supplied by over 500 organizations across Canada, including **MDA** which assembled, built, and delivered a large portion of the parts to the ISS.
 
+```md
 <details>
   <summary>Comparative Table of the Canadarms</summary>
 <table>
@@ -48,9 +49,9 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 <tbody>
 <tr>
 <td><strong>Location</strong></td>
-<td>Installed on each Space Shuttle and returned to Earth.<br /><br />Now retired, the Canadarm is on display at the Canada Aviation and Space Museum in Ottawa, Ontario.</td>
-<td>Stays permanently in space on board the International Space Station.</td>
-<td>Will stay permanently in space on board the Lunar Gateway.</td>
+<td>Installed on each Space Shuttle and returned to Earth.<br /><br />Now retired, the Canadarm is on display at the <a href="https://ingeniumcanada.org/aviation/whats-on/exhibition-legacy-of-the-canadarm.php" target="_blank">Canada Aviation and Space Museum</a> in Ottawa, Ontario.</td>
+<td>Stays permanently in space on board the <a href="https://www.asc-csa.gc.ca/eng/iss/default.asp" target="_blank">International Space Station</a>.</td>
+<td>Will stay permanently in space on board the <a href="http://csa-asc.gc.ca/eng/astronomy/moon-exploration/lunar-gateway.asp" target="_blank">Lunar Gateway</a>.</td>
 </tr>
 <tr>
 <td><strong>Range of Motion</strong></td>
@@ -103,7 +104,7 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 <tr>
 <td><strong>Speed of Operation</strong></td>
 <td>Unloaded: 60 cm/s<br />Loaded: 6 cm/s</td>
-<td>Unloaded: 37 cm/s<br />Loaded:<ul dir="auto"><li>2 cm/s (during ground control)</li><li>15 cm/s (support during spacewalks)</li></ul></td>
+<td>Unloaded: 37 cm/s<br />Loaded:<ul dir="auto"><li>2 cm/s (during ground control)</li><li>15 cm/s (support during <a href="https://www.asc-csa.gc.ca/eng/astronauts/about-the-job/spacewalks.asp" target="_blank">spacewalks</a>)</li></ul></td>
 <td>Unloaded: 10 cm/s<br />Loaded: to be determined</td>
 </tr>
 <tr>
@@ -127,7 +128,7 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 <tr>
 <td><strong>Cameras</strong></td>
 <td>Two cameras:<br /><ul dir="auto"><li>One on the elbow</li><li>One on the wrist</li></ul></td>
-<td>Four colour cameras:<br /><ul dir="auto"><li>One on each side of the elbow</li><li>The other two on the "hands"</li></ul></td>
+<td><a href="http://www.asc-csa.gc.ca/eng/search/images/watch.asp?id=4211" target="_blank">Four colour cameras</a>:<br /><ul dir="auto"><li>One on each side of the elbow</li><li>The other two on the "hands"</li></ul></td>
 <td>Six colour 4K cameras:<br /><ul dir="auto"><li>One 360-degree camera on each side of the elbow</li><li>One on each boom on swivel mounts</li><li>The other two on the "hands"</li></ul></td>
 </tr>
 <tr>
@@ -139,6 +140,7 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 </tbody>
 </table>
 </details>
+```
 
 ### Space Agriculture
 
