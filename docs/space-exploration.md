@@ -153,3 +153,10 @@ The cause of its crash was because of two O-ring seals in the space shuttle’s 
 > Uhoh.
 
 Source: [NASA Audio Transcript](https://history.nasa.gov/transcript.html)
+
+** Activities
+
+1.	Was the annexation of Kuwait necessary if Iraq could simply restrict the world oil supply? Explain.
+2.	How did US tensions with Iraq influence the Persian Gulf War?
+3.	Is the use of biological and chemical weapons moral to bring "peace" to one's nation?
+4.	Why does Canada play the peacekeeping role, and is there anything to gain from it? Explain your reasoning.
