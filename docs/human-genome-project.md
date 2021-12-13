@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Introduction
 
-The Human Genome Project was an international research effort created to discover the structure, organization, and function of a human **genome**. The project was first launched in 1988 by a committee of the U.S. National Academy of Sciences. It evolved from a 5-year plan to a 13-year research effort- lasting from 1990 to 2003. The National Institutes of Health and the Department of Energy funded the research to further expand on the concept.
+The Human Genome Project was an international research effort created to discover the structure, organization, and function of a human genome. The project was first launched in 1988 by a committee of the U.S. National Academy of Sciences. It evolved from a 5-year plan to a 13-year research effort- lasting from 1990 to 2003. The National Institutes of Health and the Department of Energy funded the research to further expand on the concept.
 
 ## Canada’s Involvement
 
