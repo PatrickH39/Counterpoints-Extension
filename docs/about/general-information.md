@@ -22,7 +22,6 @@ After the Cold War, the United Nations was a prevalent force keeping the peace b
 # Terms to Know
 
 -	**Jihadism** – an ideology with militant Islamic views perceived to be a threat to the world. Three groups located in the middle east still pertain with this ideology: ISIS, The Taliban, and Al Qaeda.
--	**Genome** – a complete set of genetic instructions determined by the order of the DNA’s four nucleotide bases.
 -	**Sortie** – an attack by a single military aircraft.
 -	**Free-Fall Bomb** – a bomb that follows the general ballistic trajectory; does not use a guidance system.
 -	**Guided Bomb** – a bomb intended to hit a single target, minimizing collateral damage, and increasing lethality against intended targets.
