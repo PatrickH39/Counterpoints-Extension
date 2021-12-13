@@ -28,7 +28,7 @@ The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 
 
 1. Was the NATO aerial bombing on the Balkan region justified? Explain.
 2. Was the KLA wrong for retaliating against Serbian persecution?
-3. Why do you think wars are simply resolved through the signing of a treaty?
+3. Do you think that the Kosovo War would have turned out better without NATO's intervention? Why?
 4. Why were Kosovar Albanians were persecuted even though Kosovar Albanians were run under another government?
 ## Check Your Understanding
 
