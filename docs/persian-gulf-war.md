@@ -15,3 +15,4 @@ On August 2, 1990, Iraq had annexed Kuwait. Kuwait did not stand a chance agains
 ## Canada Back in the Air
 
 The Persian Gulf war was the first time Canadians participated in battle since the Korean war in 1953. 4000 Canadians served as a part of a coalition of 45 countries. Many countries only participated by sending supplies and not actively fighting. Canada also manufactured CF-18 fighters along with sending soldiers. In the battle of the gulf the Canadian Naval Task Group controlled water with the HMCS Terra Nova and HMCS Athabaskan destroyers. Also, Canada fulfilled its role as a peacekeeper. In February 1991, a Canadian Field Hospital with 530 personnel operating was set up in Qaysumah, Saudi Arabia. They cared for the coalition and the Iraq soldiers. 
+
