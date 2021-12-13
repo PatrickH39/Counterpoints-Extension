@@ -155,8 +155,9 @@ The cause of its crash was because of two O-ring seals in the space shuttle’s 
 Source: [NASA Audio Transcript](https://history.nasa.gov/transcript.html)
 
 ## Activities
-
-1.	Was the annexation of Kuwait necessary if Iraq could simply restrict the world oil supply? Explain.
-2.	How did US tensions with Iraq influence the Persian Gulf War?
-3.	Is the use of biological and chemical weapons moral to bring "peace" to one's nation?
-4.	Why does Canada play the peacekeeping role, and is there anything to gain from it? Explain your reasoning.
+1.	How does Canada still maintain a supportive role in developmental projects?
+2.	What will be the differences between Canadarm 3 and Canadarm 1 and 2?
+3.	Why are LEDs being used to grow plants? Could there be any other alternatives?
+4.	What is the risk of using LEDs as artificial sunlight in space?
+5.	Why is Canadarm 2 and Dextre on the $5 banknotes? Why were these technological advancements so important? 
+6.	The Challenger accident was tragic but avoidable. What differences could you make to the shuttle, launch or preparation?
