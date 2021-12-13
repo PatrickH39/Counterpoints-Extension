@@ -25,3 +25,14 @@ Al Qaeda was the terrorist group behind the 9/11 attacks on September 11, 2001. 
 The attack on September 11, and global terrorist attacks are how this was fought. In mainly Muslim countries, Jihadist groups try to restore the Islam religion through acts of violence. ISIS focuses more on the near war while Al Qaeda focused on the far war. The near war is more violent and uncontrollable than the far. 
 
 In August 2014, The Sinjar Massacre claimed the thousands of Yazidis men, women, and children’s lives. ISIS committed a religious genocide against the Yazidis populated city of Sinjar. This brought the attention of the United Nations. Bombing campaigns commenced on the northern part of Iraq which led to a full-scale invasion by the US. They were able to evacuate of 20,000 to 30,000 Yazidis people to Syria. However, 4,000 – 5,000 Yazidis people were left on the Sinjar Mountain as the UN believed they were no longer at risk. 
+
+## Activities
+
+1.	What is the main demographic of ISIS members and why do they join ISIS?
+2.	What goal does the US and the Taliban share? List 2 events that made ISIS a serious threat.
+3.	Do any other people join ISIS?
+4.	What is one example of a “Westerner’s” ideals changing?
+5.	What was the difference in goals for ISIS and Al Qaeda?
+6.	Do you think ISIS will become a larger threat? How will the spread of information through social media affect this?
+7.	Could the Yazidis massacre be compared to Hitler’s final solution? Defend your response with examples.
+8.	Why would the US's prolonged stay in Iraq provoke an attack?
