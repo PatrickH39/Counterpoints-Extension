@@ -20,7 +20,7 @@ The project for the ISS began on January 25, 1986, and the first segment was sen
 ### Robotics on the ISS
 :::caution
 
-Canadarm, Canadarm2, and Canadarm3 respectively are successors of one another. They are not the same.
+Canadarm, Canadarm2, and Canadarm3 are successors of one another. They are not the same.
 
 :::
 
@@ -156,8 +156,4 @@ Source: [NASA Audio Transcript](https://history.nasa.gov/transcript.html)
 
 ## Black Holes
 
-### Toronto Telescope
-
 ### Hubble Space Telescope
-
-## Moon Landing
