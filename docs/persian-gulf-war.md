@@ -22,7 +22,3 @@ The Persian Gulf war was the first time Canadians participated in battle since t
 2. How did US tensions with Iraq influence the Persian Gulf War?
 3. Is the use of biological and chemical weapons moral to bring "peace" to one's nation?
 4. Why does Canada play the peacekeeping role, and is there anything to gain from it? Explain your reasoning.
-
-## Check Your Understanding
-
-Below are a series of questions. Click on the reveal flap to see if your answer is correct.
