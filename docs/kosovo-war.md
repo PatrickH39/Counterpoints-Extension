@@ -22,11 +22,11 @@ Following the NATO air campaigns, NATO’s Allied Rapid Reaction Corps requested
 
 ## The Outcome
 
-The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 1999 in Kumanovo, Macedonia. The agreement concluded the Kosovo War and established relations between Yugoslavia and KFOR. Over 13,500 people were pronounced missing the conflict. Two hundred thousand Serbs, Romani, and other non-Albanians fled Kosovo after the war. Those who remained were subjects of abuse.  The KLA disbanded after the war.
+The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 1999 in Kumanovo, Macedonia. The agreement concluded the Kosovo War and established relations between Yugoslavia and KFOR. Over 13,500 people were pronounced missing during the conflict. Two hundred thousand Serbs, Romani, and other non-Albanians fled Kosovo after the war. Those who remained were subjects of abuse.  The KLA disbanded after the war.
 
 ## Activities
 
-1. blah
+1. Was the NATO aerial bombing on the Balkan region justified? Explain.
 2. blah
 3. blah
 4. blah
