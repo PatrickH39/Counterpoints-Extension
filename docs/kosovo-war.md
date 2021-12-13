@@ -10,7 +10,7 @@ The Kosovo War was an armed conflict that began on February 28th, 1998 and ended
 
 ## A Divided Country
 
-Slobodan Milosevic, the former president of the Federal Republic of Yugoslavia, rejected Kosovar Albanians by implementing Serbian nationalist policies. Around 1.2 million to 1.45 million Kosovar Albanians were persecuted, which was around 90% of Kosovo’s population. Ibrahim Rugova, the leader of the Democratic League of Kosovo established the Kosovo Liberation Army in the early 1990s to rebel against the Serbian persecution of Kosovar Albanians. Following numerous raids on Serbian governmental assets and army posts, the KLA attacked Yugoslav authorities. This resulted in Serbian forces pursuing KLA supporters and political opponents in a campaign of retribution. 1,500 to 2,000 civilians and KLA combatants died in the campaign. The war soon caught NATO’s attention, resulting in the aerial bombing on Yugoslavia. Yugoslav troops were forced to withdraw from Kosovo. The United Nations Security Council criticized the bombing, as over 488 Yugoslav civilians and Kosovar refugees were killed in the bombing. 
+Slobodan Milosevic, the former president of the Federal Republic of Yugoslavia, rejected Kosovar Albanians by implementing Serbian nationalist policies. Around 1.2 million to 1.45 million Kosovar Albanians were persecuted, which was around 90% of Kosovo’s population. Ibrahim Rugova, the leader of the Democratic League of Kosovo established the Kosovo Liberation Army in the early 1990s to rebel against the Serbian persecution of Kosovar Albanians. The Democratic League of Kosovo provided Kosovar Albanians with basic government and social services. Following numerous raids on Serbian governmental assets and army posts, the KLA attacked Yugoslav authorities. This resulted in Serbian forces pursuing KLA supporters and political opponents in a campaign of retribution. 1,500 to 2,000 civilians and KLA combatants died in the campaign. The war soon caught NATO’s attention, resulting in the aerial bombing on Yugoslavia. Yugoslav troops were forced to withdraw from Kosovo. The United Nations Security Council criticized the bombing, as over 488 Yugoslav civilians and Kosovar refugees were killed in the bombing.  
 
 ## Operation Echo
 
@@ -28,8 +28,8 @@ The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 
 
 1. Was the NATO aerial bombing on the Balkan region justified? Explain.
 2. Was the KLA wrong for retaliating against Serbian persecution?
-3. 
-4. 
+3. Why do you think wars are simply resolved through the signing of a treaty?
+4. Why were Kosovar Albanians were persecuted even though the Federal Republic of Yugoslavia didn't provide them government or social services?
 
 ## Check Your Understanding
 
