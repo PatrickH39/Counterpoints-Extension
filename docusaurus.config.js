@@ -6,7 +6,7 @@ const config = {
     tagline: 'Chapter 5 Extension',
     url: 'https://counterpoints.patrickh.ca',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'PatrickH39',
