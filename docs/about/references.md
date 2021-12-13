@@ -83,4 +83,10 @@ Government of Canada. “Operation Kinetic.” Operation Kinetic | Canada.ca, Go
 
 ## Persian Gulf War
 
+“Gulf War.” Veterans Affairs Canada, 19 Jan. 2021, https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts/gulf-war.
+
 Gulf War, Wikimedia Foundation, 12 Dec. 2021, https://en.wikipedia.org/wiki/Gulf_War. 
+
+“Persian Gulf War.” Persian Gulf War - Definition, Causes &amp; Dates - HISTORY, A&amp;E Television Networks, 9 Nov. 2009, https://www.history.com/topics/middle-east/persian-gulf-war. 
+
+“The First Gulf War.” Office of the Historian, U.S. Department of State, https://history.state.gov/departmenthistory/short-history/firstgulf.
