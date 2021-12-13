@@ -75,11 +75,13 @@ Elbaum, Rachel. What Is ISIS? What You Need to Know about Islamic State in Iraq 
 
 “Details/Information for Canadian Forces (CF) Operation KINETIC.” DHH - Operations Database - Details/Information for Canadian Forces (CF) Operation KINETIC, Government of Canada, National Defence, 7 Apr. 2016, http://www.cmp-cpm.forces.gc.ca/dhh-dhp/od-bdo/europe/KINETIC-eng.asp. 
 
-The Editors of Encylopaedia Britannica . “Kosovo Conflict.” Kosovo Conflict | Summary & Facts | Britannica , Encyclopædia Britannica, Inc., 30 Nov. 2021, https://www.britannica.com/event/Kosovo-conflict. 
+“Ibrahim Rugova.” Ibrahim Rugova - Wikipedia, Wikimedia Foundation, 21 Sept. 2021, https://en.wikipedia.org/wiki/Ibrahim_Rugova. 
 
-Government of Canada. Operation ECHO, Government of Canada, 20 Sept. 2013, https://www.canada.ca/en/department-national-defence/services/operations/military-operations/recently-completed/operation-echo.html. 
+“Kosovo Conflict.” Kosovo Conflict | Summary & Facts | Britannica , Encyclopædia Britannica, Inc., 30 Nov. 2021, https://www.britannica.com/event/Kosovo-conflict. 
 
-Government of Canada. “Operation Kinetic.” Operation Kinetic | Canada.ca, Government of Canada, 17 Oct. 2013, https://www.canada.ca/en/department-national-defence/services/operations/military-operations/recently-completed/operation-kinetic.html. 
+"Operation ECHO", Government of Canada, 20 Sept. 2013, https://www.canada.ca/en/department-national-defence/services/operations/military-operations/recently-completed/operation-echo.html. 
+
+“Operation Kinetic.” Operation Kinetic | Canada.ca, Government of Canada, 17 Oct. 2013, https://www.canada.ca/en/department-national-defence/services/operations/military-operations/recently-completed/operation-kinetic.html. 
 
 ## Persian Gulf War
 
