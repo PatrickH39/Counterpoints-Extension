@@ -27,9 +27,9 @@ The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 
 ## Activities
 
 1. Was the NATO aerial bombing on the Balkan region justified? Explain.
-2. blah
-3. blah
-4. blah
+2. Was the KLA wrong for retaliating against Serbian persecution?
+3. 
+4. 
 
 ## Check Your Understanding
 
