@@ -41,8 +41,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Chapter 5 Extension`}
-      description="to be changed">
+      title={`Chapter 6 Extension`}
+      description="After the Cold War, the United Nations was a prevalent force to keep the peace between countries. With the fall of the Soviet Union, freedom, equality, and innovation were becoming more widespread with the diminished need for war. With less competition, countries work together to create medical and technological advancements that benefit humankind. However, as we advance at a rapid pace, new groups and countries threaten this peace with social media and advanced warfare.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
