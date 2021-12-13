@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/icons/knowledge_test.svg').default,
     description: (
       <>
-        Extend your critical thinking skills, and see what you have really learnt from each section covered by testing your knowledge with the quizzes on select pages!
+        Extend your critical thinking skills, and see what you have really learnt from each section covered by completing the activities on the pages!
       </>
     ),
   },
