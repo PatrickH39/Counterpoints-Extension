@@ -37,6 +37,8 @@ Garcia, Mark. “Space Station Assembly.” Space Station Assembly | NASA, Inter
 Howell, Elizabeth. “International Space Station: Facts, History & Tracking.” Space.com, Space, 13 Oct. 2021, https://www.space.com/16748-international-space-station.html. 
 “Islamic State.” Islamic State - Wikipedia, Wikimedia Foundation, 12 Dec. 2021, https://en.wikipedia.org/wiki/Islamic_State. 
 
+Kachur, Torah. “Taking the Field out of the Farm: Growing Produce in Space Is Closer than We Think.” Taking the Field out of the Farm: Growing Produce in Space Is Closer than We Think | CBC News, CBC / Radio Canada, 6 Apr. 2017, https://www.cbc.ca/news/science/growing-food-space-1.4058203. 
+
 Pataki, Amy. How Space Technology Is Helping Canadians Boldly Grow Where No One Has Grown Before, Toronto Star, 6 May 2016, https://www.thestar.com/life/food_wine/restaurants/2016/05/06/how-space-technology-is-helping-canadians-boldly-grow-where-no-one-has-grown-before.html. 
 
 Prévost-Manuel, Jade. “How Canadians Could Help Astronauts Grow Food for Long Stays on the Moon | CBC News.” Growing Deep Space Food Is a New Frontier, and Canadians Will Test Its Limits, CBC / Radio Canada, 21 Feb. 2021, https://www.cbc.ca/news/science/deep-space-food-nasa-canada-1.5915888. 
