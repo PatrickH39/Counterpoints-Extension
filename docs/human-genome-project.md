@@ -18,9 +18,9 @@ Biotechnology companies are examining the function of genes and how changes in t
 
 In Britain, a company called BioBank collected DNA from 500,000 citizens to discover the environmental effects on genes. Individuals who have certain genes are more susceptible to certain illnesses because of influences including heredity, diet, lifestyle, and environmental exposures. Researchers are trying to identify these genes to discover preventative strategies.
 
-### How it Affected COVID-19
+### Effect on COVID-19
 
-The Human Genome Project also helped with the COVID-19 research and safety. Genome-reading machines were repurposed to test patient samples for COVID-19 as everyone feared for the worst. Genomics labs across the United States were reinvented into COVID testing centers. The sequence of a virus is quite straightforward compared to the sequence of a human genome. The computing power of the genome-reading machines were used to follow tiny changes in the viral genome as it spreads. Chinese scientists were able to sequence the SARS-CoV-2 virus by January 12, 2020. The sequence was then shared amongst other researchers so that research and development of COVID vaccines could begin as soon as possible.
+The Human Genome Project also helped with COVID-19 research and safety. Genome-reading machines were repurposed to test patient samples for COVID-19 as everyone feared for the worst. Genomics labs across the United States were reinvented into COVID testing centers. The sequence of a virus is quite straightforward compared to the sequence of a human genome. The computing power of the genome-reading machines were used to follow tiny changes in the viral genome as it spreads. Chinese scientists were able to sequence the SARS-CoV-2 virus by January 12, 2020. The sequence was then shared amongst other researchers so that research and development of COVID vaccines could begin as soon as possible.
 
 ## Outcome
 
