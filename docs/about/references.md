@@ -39,6 +39,8 @@ Howell, Elizabeth. “International Space Station: Facts, History & Tracking.”
 
 Pataki, Amy. How Space Technology Is Helping Canadians Boldly Grow Where No One Has Grown Before, Toronto Star, 6 May 2016, https://www.thestar.com/life/food_wine/restaurants/2016/05/06/how-space-technology-is-helping-canadians-boldly-grow-where-no-one-has-grown-before.html. 
 
+Prévost-Manuel, Jade. “How Canadians Could Help Astronauts Grow Food for Long Stays on the Moon | CBC News.” Growing Deep Space Food Is a New Frontier, and Canadians Will Test Its Limits, CBC / Radio Canada, 21 Feb. 2021, https://www.cbc.ca/news/science/deep-space-food-nasa-canada-1.5915888. 
+
 Spector, Dina. “Read the Chilling Transcript from the Challenger Disaster, Which Killed 7 Astronauts 28 Years Ago Today.” Business Insider, Business Insider, 28 Jan. 2014, https://www.businessinsider.com/nasa-challenger-anniversary-transcript-2014-1. 
 
 ## Human Genome Project
