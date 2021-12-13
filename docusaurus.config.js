@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const config = {
     title: 'Counterpoints',
-    tagline: 'Chapter 5 Extension',
+    tagline: 'Chapter 6 Extension',
     url: 'https://counterpoints.patrickh.ca',
     baseUrl: '/',
     onBrokenLinks: 'warn',
