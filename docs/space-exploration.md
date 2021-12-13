@@ -142,7 +142,7 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 
 ### Space Agriculture
 
-### Experiments
+In preparation for the trip to Mars, space agencies such as NASA and the Canadian Space Agency have begun developing advanced food production systems. These systems will allow astronauts to grow their own food on year-long space missions. The bioresource engineering department at McGill University helped the Advanced Plant Habitat on the ISS develop dwarf wheat. However, this brings up the risk of radiation as consuming radiated food is a major risk factor for cancer and premature aging. Radiation exposure can also cause mutations in the plants and damage the crops. Fortunately, foods high in antioxidants can mitigate these risks. Most plants we consume are diurnal, meaning they open their flowers during the day. One of the major concerns of agriculture in space is the lack of light. The use of artificial sunlight by LEDs was developed through NASA-funded research. Although LEDs aren’t efficient, they perform well when placed in plant chambers. Plant chambers are only 0.15-square-metres, but these chambers can be upscaled to provide enough food for the round trip to Mars.
 
 ## The Challenger Accident
 
@@ -153,7 +153,3 @@ The cause of its crash was because of two O-ring seals in the space shuttle’s 
 > Uhoh.
 
 Source: [NASA Audio Transcript](https://history.nasa.gov/transcript.html)
-
-## Black Holes
-
-### Hubble Space Telescope
