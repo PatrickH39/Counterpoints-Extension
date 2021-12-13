@@ -29,10 +29,11 @@ In August 2014, The Sinjar Massacre claimed the thousands of Yazidis men, women,
 ## Activities
 
 1.	What is the main demographic of ISIS members and why do they join ISIS?
-2.	What goal does the US and the Taliban share? List 2 events that made ISIS a serious threat.
-3.	Do any other people join ISIS?
-4.	What is one example of a “Westerner’s” ideals changing?
-5.	What was the difference in goals for ISIS and Al Qaeda?
-6.	Do you think ISIS will become a larger threat? How will the spread of information through social media affect this?
-7.	Could the Yazidis massacre be compared to Hitler’s final solution? Defend your response with examples.
-8.	Why would the US's prolonged stay in Iraq provoke an attack?
+2.	What goal did the US and the Taliban share? 
+3.	What are the differences in goals for ISIS and Al Qaeda?
+4.	List 2 events that made ISIS a serious threat.
+5.	Do any other people join ISIS?
+6.	What is one example of a “Westerner’s” ideals changing?
+7.	Do you think ISIS will become a larger threat? How will the spread of information through social media affect this?
+8.	Could the Yazidis massacre be compared to Hitler’s final solution? Defend your response with examples.
+9.	Why would the US's prolonged stay in Iraq provoke an attack?
