@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Work Cited
 
-“Timeline: Notable Dates In Canada's History - National.” Timeline: Notable Dates in Canada’s History, Global News / The Canadian Press, 27 June 2014, https://globalnews.ca/news/1420149/timeline-notable-dates-in-the-history-of-canada/.
+“Timeline: Notable Dates in Canada's History - National.” Timeline: Notable Dates in Canada’s History, Global News / The Canadian Press, 27 June 2014, https://globalnews.ca/news/1420149/timeline-notable-dates-in-the-history-of-canada/.
 
 ## Front Page Slideshow
 
@@ -12,7 +12,7 @@ sidebar_position: 3
 
 TIME Photo Department. 9/11: The Photographs That Moved Them Most, Time, 8 Sept. 2011, https://time.com/3449480/911-the-photographs-that-moved-them-most/. 
 
-Stuben, Daniel. “Man in Green and Brown Camoflague Uniform Carrying Black Backpack.” Man in Green and Brown Camoflague Uniform Carrying Black Backpack - Free Army Image on Unsplash, Unsplash, Teplá, 11 Nov. 2020, https://unsplash.com/photos/n9yEuk5HhSM. Accessed 12 Dec. 2021. 
+Stuben, Daniel. “Man in Green and Brown Camouflague Uniform Carrying Black Backpack.” Man in Green and Brown Camouflague Uniform Carrying Black Backpack - Free Army Image on Unsplash, Unsplash, Teplá, 11 Nov. 2020, https://unsplash.com/photos/n9yEuk5HhSM. Accessed 12 Dec. 2021. 
 
 Leja, Darryl. Molecule NCGC607, Flickr, 10 June 2016, https://www.flickr.com/photos/142595545@N03/28006367342. 
 
