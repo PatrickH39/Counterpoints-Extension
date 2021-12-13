@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/icons/analysis.svg').default,
     description: (
       <>
-        By learning about the history and world events that have occured, we can prevent anything bad from happening, and instead, learn and evolve for a better future.
+        By learning about the history and world events that have occurred, we can prevent anything bad from happening, and instead, learn and evolve for a better future.
       </>
     ),
   },
