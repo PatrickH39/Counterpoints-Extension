@@ -83,6 +83,8 @@ Elbaum, Rachel. What Is ISIS? What You Need to Know about Islamic State in Iraq 
 
 “Operation Kinetic.” Operation Kinetic | Canada.ca, Government of Canada, 17 Oct. 2013, https://www.canada.ca/en/department-national-defence/services/operations/military-operations/recently-completed/operation-kinetic.html. 
 
+“Operation KOBOLD.” Operation KOBOLD - Canada.ca, Government of Canada, 11 Dec. 2020, https://www.canada.ca/en/department-national-defence/services/operations/military-operations/current-operations/operation-kobold.html. 
+
 ## Persian Gulf War
 
 “Gulf War.” Veterans Affairs Canada, 19 Jan. 2021, https://www.veterans.gc.ca/eng/remembrance/wars-and-conflicts/gulf-war.
