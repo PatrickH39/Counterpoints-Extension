@@ -35,5 +35,3 @@ The sequencing of the human genome involved determining the order of all three b
    b) Could the pandemic had been dealt with differently?
 7. Do you think the media played a major influence in the pandemic, and how some minority groups were discriminated against?
 8. How do you see the world in the next 10 years based on the current medical achievements that have been made and any in the future?
-
-## Check Your Understanding
