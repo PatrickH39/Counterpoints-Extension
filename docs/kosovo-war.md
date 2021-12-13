@@ -30,7 +30,3 @@ The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 
 2. Was the KLA wrong for retaliating against Serbian persecution?
 3. Why were Kosovar Albanians persecuted even though Kosovar Albanians were run under a separate government?
 4. Do you think that the Kosovo War would have turned out better without NATO's intervention? Why?
-
-## Check Your Understanding
-
-Below are a series of questions. Click on the reveal flap to see if your answer is correct.
