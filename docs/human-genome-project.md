@@ -31,9 +31,9 @@ The sequencing of the human genome involved determining the order of all three b
 1. How does the Human Genome Project affect us today?
 2. Do you think that Canada’s involvement with the Human Genome Project was necessary with the continued evolution of biomedical technology?
 3. What do you think could be achieved in the future using the data from the Human Genome Project?
-4. How did the COVID-19 pandemic affect people and their daily lives? What infrastructures were impacted by the virus, and how did people adapt? 
-5. Could the pandemic had been dealt with differently?
-6. Do you think the media played a major influence in the pandemic, and how some minority groups were discriminated against?
-7. How do you see the world in the next 10 years based on the current medical achievements that have been made and any in the future?
+4. a) How did the COVID-19 pandemic affect people and their daily lives? What infrastructures were impacted by the virus, and how did people adapt? 
+   b) Could the pandemic had been dealt with differently?
+7. Do you think the media played a major influence in the pandemic, and how some minority groups were discriminated against?
+8. How do you see the world in the next 10 years based on the current medical achievements that have been made and any in the future?
 
 ## Check Your Understanding
