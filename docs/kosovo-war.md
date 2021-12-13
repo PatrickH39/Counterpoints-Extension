@@ -33,4 +33,4 @@ The Military Technical Agreement, or the Kumanovo Treaty, was signed on June 9, 
 
 ## Check Your Understanding
 
-Below are a series of questions. Click on the reveal flap to see if you got the correct answer.
+Below are a series of questions. Click on the reveal flap to see if your answer is correct.
