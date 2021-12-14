@@ -17,6 +17,10 @@ The abbreviations for each space agency if applicable, are NASA, CSA, ESA, Rosco
 
 The project for the ISS began on January 25, 1986, and the first segment was sent on November 20, 1998. After two years, astronaut Bill Shepherd and cosmonauts Yuri Gidzenko and Sergei Krikalev, inhabited the station on November 2, 2000; being the first group of people to be on the ISS.
 
+![Figure 3-1](./assets/3-1.jpg)
+
+**Figure 3-1** A map of the International Space Station and which countries control which portions of the station.
+
 ### Robotics on the ISS
 :::caution
 
@@ -140,9 +144,17 @@ Since 2013, Dextre and Canadarm2 have been printed on the $5 polymer banknotes, 
 </table>
 </details>
 
+![Figure 3-2](./assets/3-2.jpg)
+
+**Figure 3-2** The exterior view of the International Space Station taken in 2010.
+
 ### Space Agriculture
 
 In preparation for the trip to Mars, space agencies such as NASA and the Canadian Space Agency have begun developing advanced food production systems. These systems will allow astronauts to grow their own food on year-long space missions. The bioresource engineering department at McGill University helped the Advanced Plant Habitat on the ISS develop dwarf wheat. However, this brings up the risk of radiation as consuming radiated food is a major risk factor for cancer and premature aging. Radiation exposure can also cause mutations in the plants and damage the crops. Fortunately, foods high in antioxidants can mitigate these risks. Most plants we consume are diurnal, meaning they open their flowers during the day. One of the major concerns of agriculture in space is the lack of light. The use of artificial sunlight by LEDs was developed through NASA-funded research. Although LEDs aren’t efficient, they perform well when placed in plant chambers. Plant chambers are only 0.15-square-metres, but these chambers can be upscaled to provide enough food for the round trip to Mars.
+
+![Figure 3-3](./assets/3-3.jpg)
+
+**Figure 3-3** Artificial sunlight from LEDs being used on the ISS for plants.
 
 ## The Challenger Accident
 
