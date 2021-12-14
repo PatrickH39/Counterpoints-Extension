@@ -27,6 +27,7 @@ const config = {
     ],
     themeConfig: {
         hideableSidebar: true,
+        image: 'img/metaimage.png',
         colorMode: {
             defaultMode: 'dark',
             respectPrefersColorScheme: true,
