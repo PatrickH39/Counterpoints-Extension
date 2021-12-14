@@ -19,7 +19,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
       <BackgroundSlider
-          images={[image1, image3, image2, image4, image5]}
+          images={[image1, image4, image3, image2, image5]}
           duration={8}
           transition={2}
         />
