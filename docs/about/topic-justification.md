@@ -8,7 +8,7 @@ The topics listed below are ranked by importance by its respective positions.
 
 ## Human Genome Project
 
-On January 21, 2020, the first ever corona virus was recorded. As of December 6, 2021, there were a total of 265.8 million cases and 5.2 million COVID-19 related deaths. With the research of the human genome a vaccine was quickly developed reduced the amount of potential COVID-19 cases by millions. 
+On January 21, 2020, the first ever coronavirus was recorded. As of December 6, 2021, there were a total of 265.8 million cases and 5.2 million COVID-19 related deaths. With the research of the human genome a vaccine was quickly developed and reduced the amount of potential COVID-19 cases by millions. 
 
 ## Jihadist Groups
 
