@@ -25,7 +25,3 @@ After the Cold War, the United Nations was a prevalent force keeping the peace b
 -	**Sortie** – an attack by a single military aircraft.
 -	**Free-Fall Bomb** – a bomb that follows the general ballistic trajectory; does not use a guidance system.
 -	**Guided Bomb** – a bomb intended to hit a single target, minimizing collateral damage, and increasing lethality against intended targets.
-
-## Download the PDF File
-
-[Click here](./assets/files/chapter-6e.pdf) to download the PDF version of the website.
